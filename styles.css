@@ -1,0 +1,19 @@
+h1 {
+    font-size: 50px;
+}
+
+h2,
+.l,
+ol,
+ul,
+li {
+    text-align: left;
+}
+
+* {
+    font-family: Georgia;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: #e69a8dff
+}
