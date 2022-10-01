@@ -1,2 +1,19 @@
-# odin-recipes
-A basic HTML website displaying a few recipes with the purpose of practicing basic HTML skills. All recipes are not of my own and their rights go to their respective creators. These individuals have their actual recipes linked under my creation of theirs in HTML.
+# Recipes
+
+From the Foundations section of The Odin Project Curriculum
+
+## Live Preview
+
+## Getting Started
+
+To deploy this project:
+
+```bash
+  git clone https://github.com/sth21/odin-recipes.git
+  cd odin-recipes
+```
+
+## Built With
+
+- HTML
+- CSS
